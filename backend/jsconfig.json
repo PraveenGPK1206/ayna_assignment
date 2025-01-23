@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",              // Set the module to 'NodeNext'
+    "moduleResolution": "nodenext",    // Use NodeNext for module resolution
+    "target": "ES2021",                // Specify the target ECMAScript version
+    "checkJs": true,                   // Enable type checking for JavaScript files
+    "allowJs": true                    // Allow JavaScript files in the project
+  }
+}
